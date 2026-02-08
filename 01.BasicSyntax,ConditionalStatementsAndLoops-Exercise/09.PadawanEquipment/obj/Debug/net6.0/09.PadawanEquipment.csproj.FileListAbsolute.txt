@@ -1,0 +1,15 @@
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.exe
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.deps.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.runtimeconfig.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.AssemblyInfo.cs
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.sourcelink.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\obj\Debug\net6.0\refint\09.PadawanEquipment.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.genruntimeconfig.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\09.PadawanEquipment\obj\Debug\net6.0\ref\09.PadawanEquipment.dll
