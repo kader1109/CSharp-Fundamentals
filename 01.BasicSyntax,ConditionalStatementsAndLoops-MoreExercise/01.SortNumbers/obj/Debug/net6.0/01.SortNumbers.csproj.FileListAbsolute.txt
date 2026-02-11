@@ -1,0 +1,15 @@
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.exe
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.deps.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.runtimeconfig.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.AssemblyInfoInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.AssemblyInfo.cs
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.sourcelink.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\obj\Debug\net6.0\refint\01.SortNumbers.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.genruntimeconfig.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\01.SortNumbers\obj\Debug\net6.0\ref\01.SortNumbers.dll

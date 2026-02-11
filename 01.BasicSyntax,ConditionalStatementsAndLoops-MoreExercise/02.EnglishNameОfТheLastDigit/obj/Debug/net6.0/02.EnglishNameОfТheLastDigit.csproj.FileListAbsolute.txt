@@ -1,0 +1,15 @@
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\bin\Debug\net6.0\02.EnglishNameОfТheLastDigit.exe
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\bin\Debug\net6.0\02.EnglishNameОfТheLastDigit.deps.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\bin\Debug\net6.0\02.EnglishNameОfТheLastDigit.runtimeconfig.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\bin\Debug\net6.0\02.EnglishNameОfТheLastDigit.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\bin\Debug\net6.0\02.EnglishNameОfТheLastDigit.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\obj\Debug\net6.0\02.EnglishNameОfТheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\obj\Debug\net6.0\02.EnglishNameОfТheLastDigit.AssemblyInfoInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\obj\Debug\net6.0\02.EnglishNameОfТheLastDigit.AssemblyInfo.cs
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\obj\Debug\net6.0\02.EnglishNameОfТheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\obj\Debug\net6.0\02.EnglishNameОfТheLastDigit.sourcelink.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\obj\Debug\net6.0\02.EnglishNameОfТheLastDigit.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\obj\Debug\net6.0\refint\02.EnglishNameОfТheLastDigit.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\obj\Debug\net6.0\02.EnglishNameОfТheLastDigit.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\obj\Debug\net6.0\02.EnglishNameОfТheLastDigit.genruntimeconfig.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.EnglishNameОfТheLastDigit\obj\Debug\net6.0\ref\02.EnglishNameОfТheLastDigit.dll
