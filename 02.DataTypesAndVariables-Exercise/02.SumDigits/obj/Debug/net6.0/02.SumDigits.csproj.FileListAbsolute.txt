@@ -1,0 +1,15 @@
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\bin\Debug\net6.0\02.SumDigits.exe
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\bin\Debug\net6.0\02.SumDigits.deps.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\bin\Debug\net6.0\02.SumDigits.runtimeconfig.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\bin\Debug\net6.0\02.SumDigits.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\bin\Debug\net6.0\02.SumDigits.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\obj\Debug\net6.0\02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\obj\Debug\net6.0\02.SumDigits.AssemblyInfoInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\obj\Debug\net6.0\02.SumDigits.AssemblyInfo.cs
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\obj\Debug\net6.0\02.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\obj\Debug\net6.0\02.SumDigits.sourcelink.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\obj\Debug\net6.0\02.SumDigits.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\obj\Debug\net6.0\refint\02.SumDigits.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\obj\Debug\net6.0\02.SumDigits.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\obj\Debug\net6.0\02.SumDigits.genruntimeconfig.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.SumDigits\obj\Debug\net6.0\ref\02.SumDigits.dll
