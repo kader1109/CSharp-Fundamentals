@@ -1,0 +1,15 @@
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\bin\Debug\net6.0\02.FromLeftToTheRight.exe
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\bin\Debug\net6.0\02.FromLeftToTheRight.deps.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\bin\Debug\net6.0\02.FromLeftToTheRight.runtimeconfig.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\bin\Debug\net6.0\02.FromLeftToTheRight.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\bin\Debug\net6.0\02.FromLeftToTheRight.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.AssemblyInfoInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.AssemblyInfo.cs
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.csproj.CoreCompileInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.sourcelink.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\obj\Debug\net6.0\refint\02.FromLeftToTheRight.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.genruntimeconfig.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.FromLeftToTheRight\obj\Debug\net6.0\ref\02.FromLeftToTheRight.dll
