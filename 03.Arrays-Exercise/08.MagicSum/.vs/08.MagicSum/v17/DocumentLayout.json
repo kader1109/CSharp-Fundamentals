@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\03.Arrays-Exercise\\08.MagicSum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17A51F92-AE79-E854-C27D-0590F9594A11}|08.MagicSum.csproj|c:\\users\\kader\\documents\\github\\csharp-fundamentals\\03.arrays-exercise\\08.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A51F92-AE79-E854-C27D-0590F9594A11}|08.MagicSum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\03.Arrays-Exercise\\08.MagicSum\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\03.Arrays-Exercise\\08.MagicSum\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T07:49:25.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

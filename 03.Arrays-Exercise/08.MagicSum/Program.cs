@@ -1,10 +1,29 @@
-﻿namespace _08.MagicSum
+﻿using System;
+using System.Linq;
+
+namespace _08.MagicSum
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int[] inputNumbers = Console.ReadLine()
+                                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                                .Select(int.Parse)
+                                .ToArray();
+
+            int magicNumber = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < inputNumbers.Length; i++)
+            {
+                for (int j = i + 1; j < inputNumbers.Length; j++)
+                {
+                    if (inputNumbers[i] + inputNumbers[j] == magicNumber)
+                    {
+                        Console.WriteLine($"{inputNumbers[i]} {inputNumbers[j]}");
+                    }
+                }
+            }
         }
     }
 }
