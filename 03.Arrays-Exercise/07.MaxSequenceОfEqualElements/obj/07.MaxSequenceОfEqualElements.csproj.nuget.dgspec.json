@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\07.MaxSequenceОfEqualElements\\07.MaxSequenceОfEqualElements.csproj": {}
+    "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\03.Arrays-Exercise\\07.MaxSequenceОfEqualElements\\07.MaxSequenceОfEqualElements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\07.MaxSequenceОfEqualElements\\07.MaxSequenceОfEqualElements.csproj": {
+    "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\03.Arrays-Exercise\\07.MaxSequenceОfEqualElements\\07.MaxSequenceОfEqualElements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\07.MaxSequenceОfEqualElements\\07.MaxSequenceОfEqualElements.csproj",
+        "projectUniqueName": "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\03.Arrays-Exercise\\07.MaxSequenceОfEqualElements\\07.MaxSequenceОfEqualElements.csproj",
         "projectName": "07.MaxSequenceОfEqualElements",
-        "projectPath": "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\07.MaxSequenceОfEqualElements\\07.MaxSequenceОfEqualElements.csproj",
+        "projectPath": "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\03.Arrays-Exercise\\07.MaxSequenceОfEqualElements\\07.MaxSequenceОfEqualElements.csproj",
         "packagesPath": "C:\\Users\\kader\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\07.MaxSequenceОfEqualElements\\obj\\",
+        "outputPath": "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\03.Arrays-Exercise\\07.MaxSequenceОfEqualElements\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
