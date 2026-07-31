@@ -1,0 +1,15 @@
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\bin\Debug\net6.0\Methods-Play.exe
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\bin\Debug\net6.0\Methods-Play.deps.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\bin\Debug\net6.0\Methods-Play.runtimeconfig.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\bin\Debug\net6.0\Methods-Play.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\bin\Debug\net6.0\Methods-Play.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\obj\Debug\net6.0\Methods-Play.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\obj\Debug\net6.0\Methods-Play.AssemblyInfoInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\obj\Debug\net6.0\Methods-Play.AssemblyInfo.cs
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\obj\Debug\net6.0\Methods-Play.csproj.CoreCompileInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\obj\Debug\net6.0\Methods-Play.sourcelink.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\obj\Debug\net6.0\Methods-Play.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\obj\Debug\net6.0\refint\Methods-Play.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\obj\Debug\net6.0\Methods-Play.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\obj\Debug\net6.0\Methods-Play.genruntimeconfig.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\Methods-Play\obj\Debug\net6.0\ref\Methods-Play.dll

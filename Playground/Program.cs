@@ -2,32 +2,36 @@
 {
     internal class Program
     {
-
-        class Data
+        static void Main(string[] args)
         {
-            public int Number;
-        }
+            int lengthOfSequence = int.Parse(Console.ReadLine());
+            string command = Console.ReadLine();
 
-        static void Main()
-        {
-            Data d1 = new Data();
-            d1.Number = 1;
+            while (command != "Clone them!")
+            {
+                for (int i = 0; i < lengthOfSequence; i++)
+                {
+                    int[] sequences = Console.ReadLine()
+                                    .Split('!', StringSplitOptions.RemoveEmptyEntries)
+                                    .Select(int.Parse)
+                                    .ToArray();
+                    for (int j = 0; j < sequences.Length; j++)
+                    {
+                        for (int k = j + 1; k < sequences.Length; k++)
+                        {
+                            if (sequences[k] == sequences[j])
+                            {
+                                Console.WriteLine($"Best DNA sample {k} with sum: {sequences[k] + sequences[j]} .");
+                            }
+                            else
+                            {
+                                Console.WriteLine("{DNA sequence, joined by space}");
+                            }
+                        }
+                    }
 
-            Data d2 = new Data();
-            d2.Number = 2;
-
-            Swap(d1, d2);
-
-            Console.WriteLine(d1.Number);
-            Console.WriteLine(d2.Number);
-        }
-
-        static void Swap(Data a, Data b)
-        {
-            Data temp = a;
-            a = b;
-            b = temp;
+                }
+            }
         }
     }
 }
-

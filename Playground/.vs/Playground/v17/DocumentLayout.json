@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\Playground\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24FF33C0-1DAC-4A62-A6C4-2F204ECEE7F9}|Playground.csproj|c:\\users\\kader\\documents\\github\\csharp-fundamentals\\playground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FF33C0-1DAC-4A62-A6C4-2F204ECEE7F9}|Playground.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE3066E2-BAF9-447D-8D8B-7B6281E8BDF3}|Playground.csproj|c:\\users\\kader\\documents\\github\\csharp-fundamentals\\playground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3066E2-BAF9-447D-8D8B-7B6281E8BDF3}|Playground.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\kader\\Documents\\GitHub\\CSharp-Fundamentals\\Playground\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAASwBUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T11:57:12.187Z",
+              "WhenOpened": "2026-05-22T17:58:36.382Z",
               "EditorCaption": ""
             }
           ]
