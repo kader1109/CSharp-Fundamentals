@@ -7,8 +7,8 @@
             double grade = double.Parse(Console.ReadLine());
             PrintGradeDefinition(grade);
         }
-    
-    static void PrintGradeDefinition(double grade)
+
+        static void PrintGradeDefinition(double grade)
         {
             if (grade >= 2 && grade <= 2.99)
             {
@@ -33,3 +33,4 @@
         }
     }
 }
+       
