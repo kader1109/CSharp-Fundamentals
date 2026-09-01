@@ -1,0 +1,15 @@
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.exe
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.deps.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.runtimeconfig.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.AssemblyInfoInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.AssemblyInfo.cs
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.sourcelink.json
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\obj\Debug\net8.0\refint\02.VowelsCount.dll
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.pdb
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.genruntimeconfig.cache
+C:\Users\kader\Documents\GitHub\CSharp-Fundamentals\02.VowelsCount\obj\Debug\net8.0\ref\02.VowelsCount.dll
